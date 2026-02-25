@@ -1,0 +1,12 @@
+# תקיות זמניות של קומפילציה
+bin/
+obj/
+
+# הגדרות משתמש של Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# קבצי הגדרות מקומיים (שיכולים להכיל סודות)
+appsettings.Development.json
